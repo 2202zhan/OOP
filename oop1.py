@@ -1,6 +1,6 @@
 import math
 
-
+#abramov 77
 class Taskffg:
     def __init__(self, n): 
         self.n = n
